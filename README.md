@@ -1,9 +1,6 @@
 # Thrive_talk landing page
+- [DEMO LINK](https://maximzhuravlov.github.io/ThriveTalk/)
 - [Figma design](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1)
-- [DEMO LINK](https://MaximZhuravlov.github.io/Thrive_talk/)
-
-## Instructions
-1. **Fork** the repo.
-2. **Clone** the forked one. (The project link should have your name but not `mate-academy`)
-3. Run `npm install` (or just `npm i`).
-4. Run `npm start`.
+- HTML, CSS (SCSS), Jquery.
+- Landing page with smooth scrolling effect.
+- Libraries used: Animate.css; Wow.js.
